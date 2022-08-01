@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edson</h1>
+<h1 align="center">Hi 👋, I'm Ed</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on [fITway](https://github.com/esounascim31/fITway)
